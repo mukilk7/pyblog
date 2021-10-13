@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.log
+*.p
+.DS_Store
+.project
+.pydevproject
+*.lock
+*.db
+.pytest_cache
+.vscode
+.venv
+.git
